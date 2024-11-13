@@ -1,0 +1,76 @@
+﻿# Системные файлы операционной системы
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Лог-файлы Unity
+*.log
+
+# Файлы сборки и библиотеки
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Папка кэша
+UserSettings/
+
+# Автоматически сгенерированные файлы Visual Studio/MonoDevelop
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Файлы для автосохранения сцены
+*.bak
+
+# Файлы метаданных
+*.pidb.meta
+*.pdb
+*.mdb
+
+# Плагины
+*[Aa]ssets/Plugins/*.dll
+*[Aa]ssets/Plugins/*.so
+*[Aa]ssets/Plugins/*.dylib
+*[Aa]ssets/Plugins/*.pdb
+
+# WebGL файлы
+*[Bb]uilds/WebGL/
+
+# Скрытые файлы Unity
+.*.swp
+.*.swo
+*.tmp
+
+# Временные файлы системы контроля версий
+*.gitignore~
+.git/
+.git/hooks/
+
+# VSCode
+.vscode/
+
+# Rider
+.idea/
+*.idea/
+
+# JetBrains Rider files
+.idea/*
+*.iml
+*.ipr
+*.iws
+
+# Unity 3D cache directory
+[Uu]serSettings/
+
+# Сборки адресуемых ресурсов
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/
